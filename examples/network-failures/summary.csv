@@ -1,0 +1,16 @@
+dimension,value,count
+processing,total_lines,44
+processing,parsed_lines,40
+processing,blank_lines,2
+processing,malformed_lines,2
+processing,matched_lines,9
+level,ERROR,5
+level,WARN,4
+service,NetworkManager,6
+service,CRON,1
+service,kernel,1
+service,updater,1
+message,Failed to start network connection,6
+message,Failed to start network check job USER (ops_user),1
+message,Network driver failed to initialize,1
+message,Network package update failed,1

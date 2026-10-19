@@ -1,0 +1,9 @@
+Oct 19 08:00:01 lab-host NetworkManager[2101]: WARN Failed to start network connection
+Oct 19 08:01:01 lab-host NetworkManager[2102]: ERROR Failed to start network connection
+Oct 19 08:02:10 lab-host updater[4103]: ERROR Network package update failed
+Oct 19 08:02:15 lab-host kernel[6102]: ERROR Network driver failed to initialize
+Oct 19 08:03:01 lab-host NetworkManager[2104]: WARN Failed to start network connection
+Oct 19 08:04:05 lab-host CRON[3105]: ERROR Failed to start network check job USER (ops_user)
+Oct 19 08:05:01 lab-host NetworkManager[2106]: ERROR Failed to start network connection
+Oct 19 08:06:01 lab-host NetworkManager[2107]: WARN Failed to start network connection
+Oct 19 08:09:01 lab-host NetworkManager[2110]: WARN Failed to start network connection
